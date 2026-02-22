@@ -1,4 +1,4 @@
-# Hi, I’m Aarya 👋  
+# Hi, I’m Aarya 💻
 **Data Analyst / Business Analyst** focused on **SQL + Tableau + Product Metrics** (Retention, Cohorts, Churn, Revenue).
 
 - 📍 Based in: New Jersey, USA

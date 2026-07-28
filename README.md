@@ -1,5 +1,5 @@
 # Hi, I’m Aarya 💻
-**Data Analyst / Business Analyst** focused on **SQL + Tableau + Product Metrics** (Retention, Cohorts, Churn, Revenue).
+**Data Analyst / Product Analyst** focused on **SQL + Tableau + Product Metrics** (Retention, Cohorts, Churn, Revenue).
 
 - 📍 Based in: New Jersey, USA
 - 🧰 Stack:  PostgreSQL • SQL • Tableau • Python (pandas, NumPy) • Excel/Google Sheets • Data Cleaning & QA • Git/GitHub • Basic Statistics • Dashboarding & Reporting

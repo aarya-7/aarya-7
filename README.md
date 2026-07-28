@@ -16,5 +16,5 @@
 ---
 
 ## Contact
-If you’re hiring for **Data Analyst / Business Analyst** roles or want to talk analytics:
+If you’re hiring for **Data Analyst / Product Analyst** roles or want to talk analytics:
 - Email: aaryabhivsanee@gmail.com
